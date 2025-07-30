@@ -2,11 +2,11 @@
 textcolor=0x00BFFF
 textalign=3
 pln 
-pln АПОШНЯЯ СПРАВА#/$
-pln (Пераклад з рускай мовы)#/$
+pln <center>АПОШНЯЯ СПРАВА</center>#/$
+pln <center>(Пераклад з рускай мовы)</center>#/$
 textcolor=0x4A708B
-pln Аўтар: Антон Жучкоў (fireton@mail.ru)#/$#/$#/$#/$
-pln Аўтар перакладу: Уладзімір Чараухін (chereuhin@gmail.com)#/$#/$#/$#/$
+pln <center>Аўтар: Антон Жучкоў (fireton@mail.ru)</center>#/$#/$#/$#/$
+pln <center>Аўтар перакладу: Уладзімір Чараухін (chereuhin@gmail.com)</center>#/$#/$#/$#/$
 textcolor=0x6B6B6B
 pln [націсніце любую клавішу, каб пачаць гульню. 
 anykey
