@@ -8,7 +8,7 @@ textcolor=0x4A708B
 pln <center>Аўтар: Антон Жучкоў (fireton@mail.ru)</center>#/$#/$#/$#/$
 pln <center>Аўтар перакладу: Уладзімір Чараухін (chereuhin@gmail.com)</center>#/$#/$#/$#/$
 textcolor=0x6B6B6B
-pln [націсніце любую клавішу, каб пачаць гульню. 
+/* pln [націсніце любую клавішу, каб пачаць гульню] */
 anykey
 
 :Пачатак
