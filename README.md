@@ -4,7 +4,7 @@ Interactive story "The Last Deal" (Belarusian: "Апошняя справа") by
 
 The story is in Belarusian, developed for FireURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the story. The story is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#last_deal_be). See the original Russian version [here](https://github.com/urqw/last_deal).
+This repository contains the source code and other resources of the story. The story is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=last_deal_be). See the original Russian version [here](https://github.com/urqw/last_deal).
 
 The story was first published on February 13, 2014.
 
